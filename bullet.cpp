@@ -1,5 +1,5 @@
 #include "bullet.h"
-
+//
 const qreal convert = acos(0) / 90;
 
 Bullet::Bullet(QPointF center, qreal heading, QGraphicsItem * _walls[])
